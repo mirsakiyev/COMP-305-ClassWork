@@ -1,1 +1,1 @@
-#COMP-305 Class Work
+COMP-305 Class Work 
