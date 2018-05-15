@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/My2DFirstScene_AslanMirsakiyev.unity
+  isLoaded: 1
+  isActive: 1
